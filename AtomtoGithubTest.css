@@ -1,5 +1,12 @@
 /*  Test connection between Atom and Git
 
+***This procedure assumes you have established a token or SSH
+between your Atom and Github accounts. Both Atom and Github have specific steps
+on how to set this up through your console.  It's worth it to avoid the console
+form asking for password each time.***
+
+
+
 1)  Started Repo on github
 2)  Noted https for repo
 3)  Created Project Folder through Atom, noted path
